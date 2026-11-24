@@ -33,7 +33,7 @@
 find me on [LinkedIn](www.linkedin.com/in/rita-menezes-a49a8934b), i'd love to chat about cybersecurity, uni life or good study playlists
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&bg_color=fff0f6&title_color=ff1493&icon_color=ff69b4&text_color=c2185b&border_color=ffb6d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RitaMenezes10&show_icons=true&bg_color=fff0f6&title_color=ff1493&icon_color=ff69b4&text_color=c2185b&border_color=ffb6d9" />
 </p>
 
 <p align="center">
